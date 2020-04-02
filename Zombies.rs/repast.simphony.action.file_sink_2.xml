@@ -1,0 +1,13 @@
+<repast.simphony.data2.engine.FileSinkDescriptor simphonyVersion="2.7.0">
+  <name>A File Sink</name>
+  <dataSet>Agent Counts</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>tick</string>
+    <string>Remaining Humans</string>
+    <string>Remaining Zombies</string>
+  </sourceIds>
+  <fileName>ModelOutput.txt</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>

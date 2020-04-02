@@ -1,0 +1,23 @@
+<simphony.settings.SettingsRegistry serialization="custom">
+  <unserializable-parents/>
+  <hashtable>
+    <default>
+      <loadFactor>0.75</loadFactor>
+      <threshold>8</threshold>
+    </default>
+    <int>11</int>
+    <int>6</int>
+    <string>SettingsRegistryId</string>
+    <string>Repast.registry</string>
+    <string>Spreadsheet.licenseAccepted</string>
+    <boolean>true</boolean>
+    <string>LastLoadedScenario</string>
+    <string>E:\jd\Master&apos;s\Sem 2\Applied AI\Repast\Zombies\Zombies.rs</string>
+    <string>Spreadsheet.home</string>
+    <string>E:\jd\Master&apos;s\Sem 2\Applied AI\Repast\Zombie</string>
+    <string>Spreadsheet.home.2.7.0</string>
+    <string>E:\jd\Master&apos;s\Sem 2\Applied AI\Repast\Zombie</string>
+    <string>SettingsFileName</string>
+    <string>Repast.settings</string>
+  </hashtable>
+</simphony.settings.SettingsRegistry>
